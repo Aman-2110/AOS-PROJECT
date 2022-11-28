@@ -1,0 +1,40 @@
+At time 0, User 0 has taken tap 2
+At time 0, User 1 has taken tap 5
+At time 0, User 2 has taken tap 3
+At time 0, User 3 has taken tap 4
+At time 0, User 6 has taken tap 1
+User 2 finished washing plate at tap 3 at t = 9
+User 0 finished washing plate at tap 2 at t = 9
+User 1 finished washing plate at tap 5 at t = 9
+User 3 finished washing plate at tap 4 at t = 9
+User 6 finished washing plate at tap 1 at t = 14
+User 2 finished washing glass at tap 3 at t = 15
+User 1 finished washing glass at tap 5 at t = 16
+User 0 finished washing glass at tap 2 at t = 16
+User 3 finished washing glass at tap 4 at t = 16        
+User 2 finished washing spoon at tap 3 at t = 18
+At time 18, User 5 has taken tap 3
+User 1 finished washing spoon at tap 5 at t = 19
+At time 19, User 4 has taken tap 5
+User 0 finished washing spoon at tap 2 at t = 19
+User 3 finished washing spoon at tap 4 at t = 19
+At time 19, User 7 has taken tap 2
+At time 19, User 9 has taken tap 4
+User 6 finished washing glass at tap 1 at t = 20
+User 6 finished washing spoon at tap 1 at t = 27
+User 5 finished washing plate at tap 3 at t = 27
+At time 27, User 8 has taken tap 1
+User 4 finished washing plate at tap 5 at t = 28
+User 7 finished washing plate at tap 2 at t = 28
+User 9 finished washing plate at tap 4 at t = 28
+User 5 finished washing glass at tap 3 at t = 33
+User 4 finished washing glass at tap 5 at t = 34
+User 8 finished washing plate at tap 1 at t = 36
+User 7 finished washing glass at tap 2 at t = 36
+User 5 finished washing spoon at tap 3 at t = 36
+User 9 finished washing glass at tap 4 at t = 36
+User 4 finished washing spoon at tap 5 at t = 37
+User 7 finished washing spoon at tap 2 at t = 39
+User 9 finished washing spoon at tap 4 at t = 39
+User 8 finished washing glass at tap 1 at t = 42
+User 8 finished washing spoon at tap 1 at t = 45
